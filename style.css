@@ -18,4 +18,6 @@ div{
     text-align: center;
     align-content: center;
     padding: 5px;
+    margin: 10px 200px;
+    border: 1px solid red;
 }
